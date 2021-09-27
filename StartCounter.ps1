@@ -1,12 +1,12 @@
 $servers = 
-    'askue',     #RK
-    'ASKUE-SKAL',#RS
-    'ASKUE-RM',  #RM
-    'ASKUE-MZ',  #MZ
-    'ASKUE-RT',  #RT
-    'ASKUE-RO',  #RO
-    'ASKEU-NMZ', #NMZ
-    'TOFASUE'    #TOF
+    'server1',     #RK
+    'server2',#RS
+    'server3',  #RM
+    'server4',  #MZ
+    'server5',  #RT
+    'server6',  #RO
+    'server7', #NMZ
+    'server8'    #TOF
 
 $i = 1
 write-host 'где запускаем counter?'
